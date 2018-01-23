@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+  
+ <html> 
+  
+  
+  
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Resume</title>
+  <h1>Hi there! My Name is Marielle, welcome to my resume page. </h1>
+</head>
+  
+  
+  
+  
+  
+  
+<body>
+  
+  
+<h2>Highlights:</h2>
+<p>A creative graphic artist and illustrator 
+  with experience using Adobe Photoshop and 
+  Illustrator as well as experience in front 
+  end development creating websites with HTML, 
+  CSS and JavaScript. </p>
+  
+  
+
+  
+  
+  
+<h2>General Skills:</h2>
+<p><strong>Creative graphic artist 
+  with strong emphasis on</strong></p>
+
+<ul>
+  <li>Graphic Art and Design for Print and Web </li>
+  <li>Illustration</li>
+  <li>Web Design</li>
+  <li>Front End Develoupment</li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>SEO</li>
+  <li>Social Media</li>
+</ul>  
+  
+ 
+  
+  
+  
+  
+<h2>Software:</h2>
+<ul>
+  <li>Photoshop</li>
+  <li>Illustrator</li>
+  <li>In Design</li>
+  <li>Flash</li>
+  <li>Pcs and Macs</li>
+</ul>
+  
+  
+  
+<h2>Samples:</h2>
+<p>
+<img height="400" width="305" src="1.jpg">
+<img height="240" width="400" src="2.jpg">  
+<img height="400" width="320" src="3.jpg">  
+<img height="520" width="260" src="4.jpg">  
+<img height="400" width="200" src="5.jpg">    
+</p> 
+  
+  
+  
+<h2>Social Media:</h2>
+<p> 
+<a href=
+"https://www.instagram.com/__bluehydrangea__/"
+>Instagram</a>
+</p>  
+  
+
+
+</body>
+
+</html>
